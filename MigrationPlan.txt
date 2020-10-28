@@ -1,0 +1,2 @@
+1. Imported the data from DDB_MidTerm_Data.xls
+2. Manually created the relationships with database diagram
